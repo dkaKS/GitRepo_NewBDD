@@ -20,7 +20,7 @@ public class WebConnector {
 
 
     /**
-     * Method to open and maximize the web browsers Firefox firefox firefox firefox
+     * Method to open and maximize the web browsers browsers browsers
      */
     public static void openBrowser() {
 
