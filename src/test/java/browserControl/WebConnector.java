@@ -20,7 +20,7 @@ public class WebConnector {
 
 
     /**
-     * Method to open and maximize the web browsers browsers browsers
+     * Method to open
      */
     public static void openBrowser() {
 
